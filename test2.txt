@@ -1,0 +1,29 @@
+
+*redund:lrslib v.6.2 2016.3.28(64bit,lrsgmp.h gmp v.6.1)
+*Copyright (C) 1995,2016, David Avis   avis@cs.mcgill.ca 
+*Input taken from file test.txt
+c4
+*row 1 was redundant and removed
+*row 2 was redundant and removed
+*row 3 was redundant and removed
+*row 4 was redundant and removed
+*row 5 was redundant and removed
+*row 7 was redundant and removed
+*row 9 was redundant and removed
+*row 12 was redundant and removed
+*row 13 was redundant and removed
+H-representation
+begin
+6 4 rational
+ 0  0 -1  2 
+ 0  0  1  0 
+-1  1  0  0 
+ 1 -1  0  0 
+-1  0  1  1 
+ 1  0 -1 -1 
+end
+*Input had 15 rows and 4 columns: 9 row(s) redundant
+*redund:lrslib v.6.2 2016.3.28(64bit,lrsgmp.h)
+*0.002u 0.000s 804Kb 0 flts 0 swaps 0 blks-in 8 blks-out 
+
+

@@ -1,0 +1,6 @@
+# This encodes the incidence matrix, the first row lists the indices of the faces. The first column lists the indices of the vertices.
+# Each element of the matrix is either 1 if a given vertex is adjacent to a face or 0 if not.
+,0,1,2,3
+0,1,0,1,0
+1,0,0,1,1
+2,0,1,0,1

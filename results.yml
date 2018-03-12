@@ -1,0 +1,46 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: x3
+  Lower bound: 0.25
+  Upper bound: 0.25
+  Number of objectives: 1
+  Number of constraints: 2
+  Number of variables: 3
+  Number of binary variables: 0
+  Number of integer variables: 0
+  Number of continuous variables: 3
+  Number of nonzeros: 3
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  Return code: 0
+  Message: Model was solved to optimality (subject to tolerances), and an optimal solution is available.
+  Termination condition: optimal
+  Termination message: Model was solved to optimality (subject to tolerances), and an optimal solution is available.
+  Wall time: 0.000886917114258
+  Error rc: 0
+  Time: 0.04040980339050293
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: optimal
+  Message: Model was solved to optimality (subject to tolerances), and an optimal solution is available.
+  Objective:
+    Obj:
+      Value: 0.25
+  Variable:
+    pi[2]:
+      Value: 0.25
+  Constraint: No values

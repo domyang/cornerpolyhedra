@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{jean50group}
+P~Richard Jean-Philippe and Santanu~S Dey.
+\newblock The group-theoretic approach in mixed integer programming.
+\newblock {\em 50 Years of Integer Programming 1958--2008}, page 727.
+
+\bibitem{gomory1969some}
+Ralph~E Gomory.
+\newblock Some polyhedra related to combinatorial problems.
+\newblock {\em Linear algebra and its applications}, 2(4):451--558, 1969.
+
+\bibitem{conforti2011corner}
+Michele Conforti, G{\'e}rard Cornu{\'e}jols, and Giacomo Zambelli.
+\newblock Corner polyhedron and intersection cuts.
+\newblock {\em Surveys in Operations Research and Management Science},
+  16(2):105--120, 2011.
+
+\bibitem{sagemath}
+{The Sage Developers}.
+\newblock {\em {S}ageMath, the {S}age {M}athematics {S}oftware {S}ystem
+  ({V}ersion 8.1)}, 2017.
+\newblock {\tt http://www.sagemath.org}.
+
+\bibitem{bagnara2008parma}
+Roberto Bagnara, Patricia~M Hill, and Enea Zaffanella.
+\newblock The parma polyhedra library: Toward a complete set of numerical
+  abstractions for the analysis and verification of hardware and software
+  systems.
+\newblock {\em Science of Computer Programming}, 72(1-2):3--21, 2008.
+
+\bibitem{gomory1972some}
+Ralph~E Gomory and Ellis~L Johnson.
+\newblock Some continuous functions related to corner polyhedra.
+\newblock {\em Mathematical Programming}, 3(1):23--85, 1972.
+
+\bibitem{gomory2003corner}
+Ralph~E Gomory, Ellis~L Johnson, and Lisa Evans.
+\newblock Corner polyhedra and their connection with cutting planes.
+\newblock {\em Mathematical Programming}, 96(2):321--339, 2003.
+
+\bibitem{gurobi}
+Inc. Gurobi~Optimization.
+\newblock Gurobi optimizer reference manual, 2016.
+
+\bibitem{hart2011pyomo}
+William~E Hart, Jean-Paul Watson, and David~L Woodruff.
+\newblock Pyomo: modeling and solving mathematical programs in python.
+\newblock {\em Mathematical Programming Computation}, 3(3):219--260, 2011.
+
+\end{thebibliography}
